@@ -22530,9 +22530,9 @@ __metadata:
   linkType: hard
 
 "undici@npm:*":
-  version: 6.15.0
-  resolution: "undici@npm:6.15.0"
-  checksum: 10/18584ea43a282fc157a7d8e4609075e8f92264e4f86c8b2c7e778a910d5630548294d355eabbacf2382a37102b6eebe4c49eff4b773a293fbadd7dab312f2fb7
+  version: 7.3.0
+  resolution: "undici@npm:7.3.0"
+  checksum: 10/8165c3a18cd045c70b009db006bee1784c5ba405634e8d2017107f65220a23190e2dfbbcb314bec71add1e43cabcd7515cd29b655c819f22e59b5e2e7025db20
   languageName: node
   linkType: hard
 
@@ -22546,18 +22546,18 @@ __metadata:
   linkType: hard
 
 "undici@npm:^5.28.2":
-  version: 5.28.4
-  resolution: "undici@npm:5.28.4"
+  version: 5.28.5
+  resolution: "undici@npm:5.28.5"
   dependencies:
     "@fastify/busboy": "npm:^2.0.0"
-  checksum: 10/a666a9f5ac4270c659fafc33d78b6b5039a0adbae3e28f934774c85dcc66ea91da907896f12b414bd6f578508b44d5dc206fa636afa0e49a4e1c9e99831ff065
+  checksum: 10/459cd84ab75fe90d696fa2634a8b5b23f9e1080b27236c6809bd74e51862be85df6d95b4a8fed3ee42554495008cb3c05f1bc9d4a1807478f433cca567003d70
   languageName: node
   linkType: hard
 
 "undici@npm:^6.18.2":
-  version: 6.18.2
-  resolution: "undici@npm:6.18.2"
-  checksum: 10/27c66d84d02c2e4375ad30fae081fa1f4c4158e0880f51bb5ea7b4a6fc0a6582fa68084d45c6cae3cb56a754607191a973621a15d271111cee790bf0925db00b
+  version: 6.21.1
+  resolution: "undici@npm:6.21.1"
+  checksum: 10/eeccc07e9073ae8e755fdc0dc8cdfaa426c01ec6f815425c3ecedba2e5394cea4993962c040dd168951714a82f0d001a13018c3ae3ad4534f0fa97afe425c08d
   languageName: node
   linkType: hard
 
